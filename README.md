@@ -2,7 +2,7 @@
 
 ## Create new project in Angular 17
 
-```  node.js versions: v18.13.0
+- Node.js versions: v18.13.0 
 
 ## Remove existing cli from system 
 

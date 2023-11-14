@@ -1,4 +1,8 @@
-# Update Angular CLI to latest version 
+# Update Angular CLI to latest version Angular 17
+
+## Create new project in Angular 17
+
+```  node.js versions: v18.13.0
 
 ## Remove existing cli from system 
 
@@ -12,5 +16,8 @@ npm uninstall -g @angular/cli
 npm install -g @angular/cli@latest
 ```
 
+## Migrating exitsing codebase to Angular 17
+
+https://update.angular.io/?v=16.0-17.0
 
  
